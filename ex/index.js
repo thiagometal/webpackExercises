@@ -11,3 +11,5 @@ function clone(objeto) {
 
 const novoProduto = clone(produto)
 novoProduto.nome = 'Caneta Bic Azul'
+
+console.log(produto, novoProduto)
