@@ -1,4 +1,1 @@
-console.log('Webpack')
-
-const logger = require('./logger')
-logger.info('Usando o padrao CommonJS!!!!')
+require('./duvidaCruel')
